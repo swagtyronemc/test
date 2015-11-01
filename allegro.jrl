@@ -1,0 +1,23 @@
+\t (00:00:05) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:05) 
+
+\t (00:00:05) Starting new drawing...
+\i (00:00:05) trapsize 1046
+\i (00:00:05) trapsize 1084
+\i (00:00:05) trapsize 1485
+\i (00:00:05) trapsize 1119
+\i (00:00:05) trapsize 1820
+\i (00:00:06) generaledit 
+\i (00:00:07) trapsize 1384
+\i (00:00:12) open 
+\i (00:00:26) fillin "C:\Users\Hugo\Desktop\DC2132A\DC2132A-1.DSN"
+\i (00:00:26) cd "C:\Users\Hugo\Desktop\DC2132A"
+\t (00:00:26) Opening existing drawing...
+\e (00:00:26) ERROR(SPMHDB-238): The database is corrupted. It may have been copied from a different architecture using ASCII mode ... copy using binary mode.
+\e (00:00:26) ERROR(SPMHDB-238): The database is corrupted. It may have been copied from a different architecture using ASCII mode ... copy using binary mode.
+\i (00:00:29) fillin confirm
+\t (00:00:29) Starting new drawing...
+\i (00:00:29) trapsize 1601
+\i (00:00:31) fillin "menu_cancel"
+\i (00:00:31) generaledit 
+\i (00:00:32) exit 
